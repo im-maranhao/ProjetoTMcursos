@@ -4,7 +4,7 @@ Curso: Ciencia da  Computação
 Disciplina: Insfraestrutura Computacional
 Professor: Antônio Sérgio  
 Alunas: Miriam Maranhão, Thais Napolitano
-Objetivo: Tela de conexao com o banco de dados
+Objetivo: Tela de conexão com o banco de dados
 */
 <?php
 define('HOST','127.0.0.1');
