@@ -1,11 +1,13 @@
 <!--
-Instituição: UNINOVE
+
 Curso: Ciencia da Computação
 Disciplina: Insfraestrutura Computacional
 Professor: Antônio Sérgio
 Alunas: Miriam Maranhão, Thais Napolitano
 Objetivo: Tela de contato com a empresa
+
 -->
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
