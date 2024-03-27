@@ -1,11 +1,11 @@
-<!--
-Instituição: UNINOVE
+<!--
 Curso: Ciencia da  Computação 
 Disciplina: Insfraestrutura Computacional
 Professor: Antônio Sérgio  
 Alunas: Miriam Maranhão, Thais Napolitano
 Objetivo: Tela de menu de opções 
 -->
+
 <!DOCTYPE html> 
 <html>
 <head>
@@ -33,6 +33,7 @@ Objetivo: Tela de menu de opções
          </br>
 -->
     </center>
+
     </br>
             <li><a href="">Perfil</a></li> 
             <li><a href="">Pendências</a></li>
@@ -45,8 +46,7 @@ Objetivo: Tela de menu de opções
             <li> <a href="logout.php">Sair</a></li>
 </br>
         </ul>
-
-
+
     </nav>
     </div>
     </header>
@@ -57,8 +57,7 @@ Objetivo: Tela de menu de opções
         <img src="imagens/menu.png" >
     </label>
     </div>
-
-
+
 <center>
 
 </center>
